@@ -11,7 +11,7 @@
 * Natural Language Processing 
 * Robotics
 
-👉[My Online Portfolio](https://entbappy.github.io/nishkoder-portfolio)
+👉[My Online Portfolio](https://nishkoder.github.io/nishkoder-portfolio)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,9 +24,10 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+[<img align="left" alt="nishkoder | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="nishkoder | Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium.png" />][Medium]
+[<img align="left" alt="nishkoder | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="nishkoder | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
                                                                                                                                                                        
 
 <br>
@@ -34,6 +35,7 @@
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/nishant-gupta-0a8a7774/
+[Medium]:   https://medium.com/@nishkoder/
 [YouTube]:  https://www.youtube.com/channel/UCGHaAIXJiQA76M7DfmLRm_w
 [LeetCode]: https://leetcode.com/gnishant001/
 <!--
@@ -41,7 +43,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
  -->
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkoder&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkoder&label=Profile%20views&color=0e75b6&style=flat" alt="nishkoder" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishkoder&show_icons=true&locale=en&layout=compact" alt="nishkoder" /></p>
 
