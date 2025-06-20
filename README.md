@@ -136,7 +136,7 @@ I'm always interested in collaborating on innovative AI projects, cloud solution
 
 ---
 
-**Portfolio:** [nishkoder.in](https://nishkoder.in/) | **Email:** ai.gnishant@gmail.com
+**Email:** ai.gnishant@gmail.com
 
 ⭐ **"Building intelligent systems that make a difference"** ⭐
 
