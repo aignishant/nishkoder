@@ -141,6 +141,6 @@ I'm always interested in collaborating on innovative AI projects, cloud solution
 ⭐ **"Building intelligent systems that make a difference"** ⭐
 
 [linkedin]: https://www.linkedin.com/in/nishant-gupta-0a8a7774/
-[Medium]: [https://medium.com/@nishkoder/](https://neuralpai.medium.com/)
+[Medium]: https://neuralpai.medium.com/
 [YouTube]: https://www.youtube.com/channel/UCGHaAIXJiQA76M7DfmLRm_w
 [LeetCode]: https://leetcode.com/gnish
