@@ -1,9 +1,9 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-## I'm NishKoder - Senior Technical Lead & AI Enthusiast 🚀
+## I'm AIGnishant - Senior Technical Lead & AI Enthusiast 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishkoder&label=Profile%20views&color=0e75b6&style=flat" alt="nishkoder" />
+  <img src="https://komarev.com/ghpvc/?username=aignishant&label=Profile%20views&color=0e75b6&style=flat" alt="aignishant" />
 </p>
 
 ### 💫 About Me
@@ -115,11 +115,11 @@ Currently working on **Google Chronicle SOAR** and driving innovation in **Gener
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishkoder&show_icons=true&locale=en&layout=compact" alt="nishkoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aignishant&show_icons=true&locale=en&layout=compact" alt="aignishant" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishkoder&show_icons=true&locale=en" alt="nishkoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aignishant&show_icons=true&locale=en" alt="aignishant" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkoder&" alt="nishkoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aignishant&" alt="aignishant" /></p>
 
 ---
 
@@ -127,10 +127,10 @@ Currently working on **Google Chronicle SOAR** and driving innovation in **Gener
 
 I'm always interested in collaborating on innovative AI projects, cloud solutions, and security technologies. Feel free to reach out!
 
-[<img align="left" alt="nishkoder | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="nishkoder | Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium.png" />][Medium]
-[<img align="left" alt="nishkoder | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="nishkoder | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+[<img align="left" alt="aignishant | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="aignishant | Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium.png" />][Medium]
+[<img align="left" alt="aignishant | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="aignishant | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
 
 <br><br>
 
